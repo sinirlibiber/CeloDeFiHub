@@ -1,0 +1,31 @@
+{
+  "miniapp": {
+    "version": "1",
+    "name": "Celo Multi-Chain Dapp",
+    "iconUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/thumbnail_7d2739ad-79ec-4fe5-b03e-579804bcf81f-u3qznQVv8EMCjfvPSnbLODR3rUsPZj",
+    "homeUrl": "https://broad-independent-306.app.ohara.ai",
+    "imageUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/thumbnail_7d2739ad-79ec-4fe5-b03e-579804bcf81f-u3qznQVv8EMCjfvPSnbLODR3rUsPZj",
+    "buttonTitle": "Open with Ohara",
+    "splashImageUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/farcaster/splash_images/splash_image1.svg",
+    "splashBackgroundColor": "#ffffff",
+    "tags": [
+      "ohara",
+      "mini-app",
+      "base",
+      "farcaster"
+    ],
+    "primaryCategory": "entertainment",
+    "ogTitle": "Celo Multi-Chain Dapp",
+    "ogImageUrl": "https://usdozf7pplhxfvrl.public.blob.vercel-storage.com/thumbnail_7d2739ad-79ec-4fe5-b03e-579804bcf81f-u3qznQVv8EMCjfvPSnbLODR3rUsPZj"
+  },
+  "baseBuilder": {
+    "allowedAddresses": [
+      ""
+    ]
+  },
+  "accountAssociation": {
+    "header": "eyJmaWQiOjMzNTMzNCwidHlwZSI6ImF1dGgiLCJrZXkiOiIweDQ0ODRmQkM0Y2I5NzI0NjYyMDc1YjNhNzJkMjM2ODc3RDc2ZTc1YjIifQ",
+    "payload": "eyJkb21haW4iOiJicm9hZC1pbmRlcGVuZGVudC0zMDYuYXBwLm9oYXJhLmFpIn0",
+    "signature": "d4/rCkzMqpMi9EXTVcUtaa9QIv7Y/uQnUIsMuOQJDhhyb3bi/DdPIRZ+SDCOpWN3sQb5J5cNaUHmCIj0fE54LBs="
+  }
+}
